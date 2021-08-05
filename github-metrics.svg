@@ -1341,12 +1341,12 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="397.9360497468143" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="397.9360497468143" y="0" width="19.98650603750487" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="417.9225557843192" y="0" width="11.248330643815034" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="429.17088642813417" y="0" width="10.566885537810919" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="439.7377719659451" y="0" width="10.443074954092705" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="450.1808469200378" y="0" width="9.819153079962161" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="397.93662220685945" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="397.93662220685945" y="0" width="19.986321687715634" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="417.9229438945751" y="0" width="11.248226892445008" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="429.1711707870201" y="0" width="10.566788071894758" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="439.73795885891485" y="0" width="10.442978630169796" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="450.1809374890846" y="0" width="9.819062510915357" height="8" fill="#555555"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1417,7 +1417,7 @@
                 <div class="row">
                     <ul class="habits">
                         <li>Mostly pushes code around 18:00</li>
-                        <li>Mostly active on Wednesday</li>
+                        <li>Mostly active on Thursday</li>
                     </ul>
                 </div>
             </section>
@@ -1438,7 +1438,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="160.76974910083715 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="160.77290389837012 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -1655,7 +1655,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated Thu, 05 Aug 2021 18:35:47 (timezone Europe/Brussels) with lowlighter/metrics@3.10.0</span>
+                <span>Last updated Thu, 05 Aug 2021 19:29:16 (timezone Europe/Brussels) with lowlighter/metrics@3.10.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
