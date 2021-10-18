@@ -1341,12 +1341,12 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="398.31031119193807" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="398.31031119193807" y="0" width="19.865982309929432" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="418.1762935018675" y="0" width="11.180500341927873" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="429.35679384379534" y="0" width="10.503164523668172" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="439.8599583674635" y="0" width="10.380100549339065" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="450.2400589168026" y="0" width="9.75994108319744" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="398.339633333103" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="398.339633333103" y="0" width="19.856539676177707" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="418.1961730092807" y="0" width="11.175186063064496" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="429.3713590723452" y="0" width="10.498172193851108" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="439.86953126619625" y="0" width="10.375166713887872" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="450.24469798008414" y="0" width="9.755302019915831" height="8" fill="#555555"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1356,7 +1356,7 @@
                       Go
                     </div>
                             <small>
-                                <div>86.59%</div>
+                                <div>86.6%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1417,7 +1417,7 @@
                 <div class="row">
                     <ul class="habits">
                         <li>Mostly pushes code around 12:00</li>
-                        <li>Mostly active on Sunday</li>
+                        <li>Mostly active on Monday</li>
                     </ul>
                 </div>
             </section>
@@ -1438,7 +1438,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="167.0361001124429 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="167.04052412189242 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -1655,7 +1655,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated Mon, 18 Oct 2021 13:20:45 (timezone Europe/Brussels) with lowlighter/metrics@3.10.0</span>
+                <span>Last updated Mon, 18 Oct 2021 14:35:46 (timezone Europe/Brussels) with lowlighter/metrics@3.10.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
